@@ -44,6 +44,7 @@ app.get("/", (req, res) => {
             <div class="container">
                 <h1>¡Hola Mundo DevOps</h1>
                 <p>Práctica Final CI/CD con GitHub Actions</p>
+                <p>Héctor Aremil Guzmán (2024-2492)</p>
             </div>
         </body>
         </html>
